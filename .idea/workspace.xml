@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="85416bf6-d87e-4015-90c5-09637bb3ab0f" name="更改" comment="修改封面配置" />
+    <list default="true" id="85416bf6-d87e-4015-90c5-09637bb3ab0f" name="更改" comment="修改封面配置">
+      <change beforePath="$PROJECT_DIR$/menu.md" beforeDir="false" afterPath="$PROJECT_DIR$/menu.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +49,10 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "false",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/学习项目",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,6 +71,7 @@
       <updated>1689821279233</updated>
       <workItem from="1689821281725" duration="5336000" />
       <workItem from="1689841100977" duration="4762000" />
+      <workItem from="1690099709879" duration="1196000" />
     </task>
     <task id="LOCAL-00001" summary="增加配置">
       <created>1689841614152</created>
