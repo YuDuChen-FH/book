@@ -16,8 +16,17 @@
     - springboot
     - spring-cloud
 - **linux**
-    - 入门
-    - 指令
+    - [入门](./docs/linux/distribution.md)
+    - [指令](./docs/linux/instruction.md)
 - **中间件**
+    - 消息中间件
+        - rabbitMQ
+        - activeMq
+        - rocketMq
+        - kafka
+    - 日志中间件
+- **工具**
+    - git
+    - idea
 
 
