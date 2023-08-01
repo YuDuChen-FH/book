@@ -18,6 +18,7 @@
 - **linux**
     - [入门](./docs/linux/distribution.md)
     - [指令](./docs/linux/instruction.md)
+    - [centos7](./docs/linux/centos7.md)
 - **中间件**
     - 消息中间件
         - rabbitMQ
